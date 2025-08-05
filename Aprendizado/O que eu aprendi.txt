@@ -1,0 +1,44 @@
+🚀 O que eu aprendi com o projeto da Calculadora em Python
+
+Este projeto marcou um passo importante na minha jornada como estudante de Ciência da Computação e iniciante na programação. Durante a criação dessa calculadora simples em Python, aprendi e desenvolvi várias habilidades fundamentais, tanto técnicas quanto relacionadas à apresentação de projetos.
+
+🧠 Lógica de Programação
+
+Ao construir a calculadora, pratiquei conceitos básicos e essenciais da programação, como:
+
+Criação de funções em Python
+
+Estruturas condicionais (if, elif, else)
+
+Laços de repetição (while)
+
+Tratamento de erros com try e except Esses conhecimentos são a base para qualquer tipo de desenvolvimento de software.
+
+
+🛠 Estruturação e Organização de Projetos
+
+Entendi a importância de manter os arquivos organizados, com um código limpo e fácil de entender. Além disso, criei um README.md explicando o objetivo do projeto, como ele funciona e como pode ser executado, o que é fundamental para apresentar qualquer projeto de forma profissional.
+
+🌐 Primeiros Passos com o GitHub
+
+Aprendi a utilizar o GitHub como ferramenta para:
+
+Criar repositórios
+
+Enviar meus arquivos (upload)
+
+Tornar meu projeto público para que outros possam visualizar, usar ou contribuir
+
+Usar o GitHub como portfólio para apresentar meus conhecimentos
+
+
+💼 Apresentação Profissional
+
+Percebi como é importante saber apresentar um projeto, além de apenas escrever o código. O README.md é como uma vitrine do trabalho, e hoje entendo o quanto isso pode chamar a atenção de recrutadores, colegas ou colaboradores.
+
+
+
+💡 Esse é apenas o começo da minha trajetória como desenvolvedor. A cada projeto, busco evoluir e registrar meu aprendizado aqui no GitHub.
+Obrigado por visitar meu repositório!
+
+
